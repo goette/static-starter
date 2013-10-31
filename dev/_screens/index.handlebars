@@ -1,0 +1,40 @@
+<div class="pure-u-1">
+    <div class="box">
+        <h2>{{intro}}</h2>
+    </div>
+</div>
+
+<div class="pure-u-1-2">
+    <div class="box">
+        <p><strong>Description according to the Textspec:</strong> {{t.description}}</p>
+        <ul>
+        {{#each list}}
+            <li>{{this}}</li>
+        {{/each}}
+        </ul>
+        {{#if button}}
+        <button class="pure-button pure-button-primary">{{button}}</button>
+        {{/if}}
+    </div>
+</div>
+<div class="pure-u-1-2">
+    <div class="box">
+        {{#if showIf}}
+        <p>I am the if block</p>
+        {{/if}}
+
+        <p>We are custom helpers:</p>
+        <ol>
+            <li>{{hello "World"}}</li>
+            <li>{{hello2 "World2"}}</li>
+        </ol>
+
+        {{> module1}}
+    </div>
+</div>
+
+{{#each tile}}
+    {{> tile}}
+{{/each}}
+
+{{> footer}}

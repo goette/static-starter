@@ -1,0 +1,8 @@
+{
+    "t": {
+        "title": "Interesting story",
+        "description": "This is an interesting story about something that happened one day!",
+        "page2txt1": "I have no specific data, but I'm still alive!",
+        "page2txt2": "Globals work as well, as well as <strong>HTML</strong> in JSON strings - like so: {{{variable}}}"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "static-starter",
+  "version": "0.1.0",
+  "homepage": "https://github.com/goette/static-starter",
+  "author": {
+    "name": "goette"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git:///github.com/goette/static-starter.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-compile-handlebars": "~0.6.2",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-open": "~0.2.2"
+  }
+}

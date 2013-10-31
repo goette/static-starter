@@ -1,0 +1,7 @@
+{
+    "link": "<a href='index.html'>Home</a>",
+    "include_text": "This is what the module is saying on page 2",
+    "isTest": "is fancy",
+    "isntTest": "is not fancy",
+    "button": "Page Button"
+}

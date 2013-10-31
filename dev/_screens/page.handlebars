@@ -1,0 +1,19 @@
+<div class="pure-u-1">
+    <div class="box">
+        <h2>{{> module1}}</h2>
+
+        {{#is isTest "is fancy"}}
+        <p>{{isTest}}</p>
+        {{/is}}
+
+        {{#isnt isntTest "is fancy"}}
+        <p>{{isntTest}}</p>
+        {{/isnt}}
+
+        {{#if button}}
+        <button class="pure-button">{{button}}</button>
+        {{/if}}
+    </div>
+</div>
+
+{{> footer}}

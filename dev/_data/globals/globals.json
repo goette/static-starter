@@ -1,0 +1,9 @@
+{
+    "pageTitle": "Static Starter",
+    "author": "<a href=\"http://github.com/goette\">goette</a>",
+    "nav": [
+        {"name": "Home", "url": "index.html"},
+        {"name": "Page", "url": "page.html"},
+        {"name": "Page 2", "url": "page2.html"}
+    ]
+}

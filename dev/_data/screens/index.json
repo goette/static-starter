@@ -1,0 +1,49 @@
+{
+    "link": "<a href='page.html'>Another page</a>",
+    "intro": "This is a page specific Text from a json file",
+    "include_text": "This is what the module is saying",
+    "showIf": true,
+    "list": [
+        "A list",
+        "of many",
+        "items",
+        "only 4 actually"
+    ],
+    "tile": [
+        {
+            "name": "Tile1",
+            "text": "Text for Tile1"
+        },
+        {
+            "name": "Tile2",
+            "text": "Text for Tile2",
+            "active": true
+        },
+        {
+            "name": "Tile3",
+            "text": "Text for Tile3"
+        },
+        {
+            "name": "Tile4",
+            "text": "Text for Tile4"
+        },
+        {
+            "name": "Tile1",
+            "text": "Text for Tile1"
+        },
+        {
+            "name": "Tile2",
+            "text": "Text for Tile2",
+            "active": true
+        },
+        {
+            "name": "Tile3",
+            "text": "Text for Tile3"
+        },
+        {
+            "name": "Tile4",
+            "text": "Text for Tile4"
+        }
+    ],
+    "button": "Index Button"
+}
