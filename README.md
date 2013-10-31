@@ -23,7 +23,7 @@ This is NOT supposed to be any kind of release-able thing, so while it works gre
 
 Since this is not intended for production (yet), I didn't include a separate build process (yet), but I might at some point in the future.
 
-Check out [grunt-compile-handlebars](https://github.com/patrickkettner/grunt-compile-handlebars) and of course [handlebars](handlebarsjs.com) to learn more about what's possible, and also of course because that's the heart of the whole thing.
+**Check out [grunt-compile-handlebars](https://github.com/patrickkettner/grunt-compile-handlebars) and [handlebars](handlebarsjs.com)** to learn more about what's possible, and also of course because that's the heart of the whole thing.
 
 
 
