@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git:///github.com/goette/static-starter.git"
+    "url": "git://github.com/goette/static-starter.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
