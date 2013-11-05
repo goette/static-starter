@@ -36,6 +36,16 @@ module.exports = function(grunt) {
                 httpGeneratedImagesPath: 'dist/images',
                 httpFontsPath: 'dist/font',
                 relativeAssets: false
+            },
+            dist: {
+                options: {
+                    generatedImagesDir: 'dist/images/'
+                }
+            },
+            server: {
+                options: {
+                    debugInfo: true
+                }
             }
         },
 
